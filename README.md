@@ -6,7 +6,13 @@ Supports blog and user images; cover images, while supported in the Ghost admin,
 
 Fonts embedded via Google Fonts, including Roboto Slab, Merriweather, and Open Sans Condensed.
 
-See *Vapor* in action at [Hipster Ghost](http://hipsterghost.com/).
+See sethlilly's original *Vapor* in action at [Hipster Ghost](http://hipsterghost.com/).
+
+## Modifications
+
+This is my own mini-spin (some font and color changes) of the theme.  
+
+It can be seen in action at [tanialog](http://tania.pw).
 
 ## Releases
 
