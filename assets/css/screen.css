@@ -74,10 +74,10 @@ pre {
     background-color: rgba(0,0,0,0.05);
 }
 
-p code {
-    font-family: consolas, courier, monospace;
-    font-size: .8em;
-    line-height: 1.2em;
+code, p code {
+   font-family: 'Source Code Pro', consolas, courier, monospace;
+   font-size: .8em;
+   line-height: 1.2em;
 }
 
 h1 {
